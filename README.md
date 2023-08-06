@@ -7,7 +7,7 @@ Les deux premières associations à l'utiliser sont Deul'Air et LM Oxygène.
 
 ## Github pages 
 Cette page contient une version déployée et consolidée. Les fichiers de données GeoJSon sont statiques
-   https://cunvoas.github.io/geolocation/
+   https://autmel.github.io/geoservice/
 
 ## Code Source
 
